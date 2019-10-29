@@ -1,0 +1,12 @@
+numpy
+seaborn
+matplotlib
+scikit-learn
+
+https://github.com/swar/nba_api/blob/master/docs/examples/Basics.ipynb
+https://www.basketball-reference.com/leagues/NBA_2019.html
+https://www.kaggle.com/ionaskel/nba-games-stats-from-2014-to-2018#nba.games.stats.csv
+https://github.com/swar/nba_api/blob/master/docs/examples/Finding%20Games.ipynb
+
+#tranforma um dataframe em um csv
+#df.to_csv("teste.csv") 
