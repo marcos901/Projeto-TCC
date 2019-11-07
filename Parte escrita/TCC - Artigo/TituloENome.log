@@ -1,0 +1,264 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=latex 2019.5.30)  30 MAY 2019 15:55
+entering extended mode
+**./TituloENome.tex
+(TituloENome.tex
+LaTeX2e <2018-12-01>
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 \begin{center}
+                  
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 3--3
+[] 
+ []
+
+
+Overfull \hbox (85.07039pt too wide) in paragraph at lines 5--5
+ \OT1/cmr/bx/n/10 Desenvolvimento 
+ []
+
+
+Overfull \hbox (11.65967pt too wide) in paragraph at lines 5--5
+ \OT1/cmr/bx/n/10 de 
+ []
+
+
+Overfull \hbox (25.87486pt too wide) in paragraph at lines 5--5
+ \OT1/cmr/bx/n/10 mod- 
+ []
+
+
+Overfull \hbox (9.10413pt too wide) in paragraph at lines 5--5
+ \OT1/cmr/bx/n/10 e- 
+ []
+
+
+Overfull \hbox (13.48047pt too wide) in paragraph at lines 5--5
+ \OT1/cmr/bx/n/10 los 
+ []
+
+
+Overfull \hbox (11.65967pt too wide) in paragraph at lines 5--5
+ \OT1/cmr/bx/n/10 de 
+ []
+
+
+Overfull \hbox (21.40266pt too wide) in paragraph at lines 5--5
+ \OT1/cmr/bx/n/10 doc- 
+ []
+
+
+Overfull \hbox (10.22217pt too wide) in paragraph at lines 5--5
+ \OT1/cmr/bx/n/10 u- 
+ []
+
+
+Overfull \hbox (25.07626pt too wide) in paragraph at lines 5--5
+ \OT1/cmr/bx/n/10 men- 
+ []
+
+
+Overfull \hbox (14.75824pt too wide) in paragraph at lines 5--5
+ \OT1/cmr/bx/n/10 tos 
+ []
+
+
+Overfull \hbox (56.12604pt too wide) in paragraph at lines 5--5
+ \OT1/cmr/bx/n/10 acad^emicos 
+ []
+
+
+Overfull \hbox (12.13882pt too wide) in paragraph at lines 5--5
+ \OT1/cmr/bx/n/10 no 
+ []
+
+
+Overfull \hbox (16.34016pt too wide) in paragraph at lines 5--5
+ \OT1/cmr/bx/n/10 La- 
+ []
+
+
+Overfull \hbox (21.00684pt too wide) in paragraph at lines 5--5
+ \OT1/cmr/bx/n/10 TeX 
+ []
+
+
+Overfull \hbox (22.3054pt too wide) in paragraph at lines 5--5
+ \OT1/cmr/bx/n/10 para 
+ []
+
+
+Overfull \hbox (5.74997pt too wide) in paragraph at lines 5--5
+ \OT1/cmr/bx/n/10 o 
+ []
+
+
+Overfull \hbox (30.51372pt too wide) in paragraph at lines 5--5
+ \OT1/cmr/bx/n/10 IFTM 
+ []
+
+
+Overfull \hbox (19.05545pt too wide) in paragraph at lines 5--5
+ \OT1/cmr/bx/n/10 Itu- 
+ []
+
+
+Overfull \hbox (31.62479pt too wide) in paragraph at lines 5--5
+ \OT1/cmr/bx/n/10 iutaba 
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 5.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 5.
+! Undefined control sequence.
+\@footnotetext ...tins {\reset@font \footnotesize 
+                                                  \interlinepenalty \interfo...
+l.5 ...pus Ituiutaba, vinicius.pm901@hotmail.com}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\@footnotetext ...}\color@begingroup \@makefntext 
+                                                  {\rule \z@ \footnotesep \i...
+l.5 ...pus Ituiutaba, vinicius.pm901@hotmail.com}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (44.3612pt too wide) in paragraph at lines 5--5
+[][]\OT1/cmr/m/n/10 Estudante
+ []
+
+
+Overfull \hbox (10.00002pt too wide) in paragraph at lines 5--5
+\OT1/cmr/m/n/10 de
+ []
+
+
+Overfull \hbox (32.22227pt too wide) in paragraph at lines 5--5
+\OT1/cmr/m/n/10 Ci^encia
+ []
+
+
+Overfull \hbox (10.55559pt too wide) in paragraph at lines 5--5
+\OT1/cmr/m/n/10 da
+ []
+
+
+Overfull \hbox (23.88893pt too wide) in paragraph at lines 5--5
+\OT1/cmr/m/n/10 Com-
+ []
+
+
+Overfull \hbox (37.22232pt too wide) in paragraph at lines 5--5
+\OT1/cmr/m/n/10 putac~ao,
+ []
+
+
+Overfull \hbox (29.30562pt too wide) in paragraph at lines 5--5
+\OT1/cmr/m/n/10 IFTM,
+ []
+
+
+Overfull \hbox (23.88893pt too wide) in paragraph at lines 5--5
+\OT1/cmr/m/n/10 Cam-
+ []
+
+
+Overfull \hbox (15.05559pt too wide) in paragraph at lines 5--5
+\OT1/cmr/m/n/10 pus
+ []
+
+
+Overfull \hbox (16.38892pt too wide) in paragraph at lines 5--5
+\OT1/cmr/m/n/10 Itu-
+ []
+
+
+Overfull \hbox (30.55565pt too wide) in paragraph at lines 5--5
+\OT1/cmr/m/n/10 iutaba,
+ []
+
+
+Overfull \hbox (19.72227pt too wide) in paragraph at lines 5--5
+\OT1/cmr/m/n/10 vini-
+ []
+
+
+Overfull \hbox (110.05585pt too wide) in paragraph at lines 5--5
+\OT1/cmr/m/n/10 cius.pm901@hotmail.com| 
+ []
+
+
+Overfull \hbox (36.64006pt too wide) in paragraph at lines 5--6
+ []\OT1/cmr/bx/n/10 Marcos 
+ []
+
+
+Overfull \hbox (25.30542pt too wide) in paragraph at lines 5--6
+ \OT1/cmr/bx/n/10 Vini- 
+ []
+
+
+Overfull \hbox (19.23044pt too wide) in paragraph at lines 5--6
+ \OT1/cmr/bx/n/10 cius 
+ []
+
+
+Overfull \hbox (20.11797pt too wide) in paragraph at lines 5--6
+ \OT1/cmr/bx/n/10 Fer- 
+ []
+
+
+Overfull \hbox (22.20125pt too wide) in paragraph at lines 5--6
+ \OT1/cmr/bx/n/10 nan- 
+ []
+
+
+Overfull \hbox (16.19574pt too wide) in paragraph at lines 5--6
+ \OT1/cmr/bx/n/10 des 
+ []
+
+
+Overfull \hbox (15.72214pt too wide) in paragraph at lines 5--6
+ \OT1/cmr/bx/n/10 Vi- 
+ []
+
+
+Overfull \hbox (17.74298pt too wide) in paragraph at lines 5--6
+ \OT1/cmr/bx/n/10 tal[] 
+ []
+
+)
+! Emergency stop.
+<*> ./TituloENome.tex
+                     
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 14 strings out of 492896
+ 258 string characters out of 3123761
+ 58081 words of memory out of 3000000
+ 4029 multiletter control sequences out of 15000+200000
+ 3948 words of font info for 15 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 25i,5n,16p,171b,181s stack positions out of 5000i,500n,10000p,200000b,50000s
+No pages of output.

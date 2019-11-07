@@ -1,0 +1,65 @@
+This is BibTeX, Version 0.99d (TeX Live 2017/Debian)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: Artigo.aux
+The style file: abntex2-alf.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+Database file #1: abntex2-options.bib
+Database file #2: Artigo.bib
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=20001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
++---------------------------------------------------------+
+| Estilo bibliográfico abntex2-alf.bst versão v-1.9.6           |
+| Em caso de dúvidas ou problemas com este estilo procure |
+| http://www.abntex.net.br/                               |
++---------------------------------------------------------+
+You've used 13 entries,
+            6714 wiz_defined-function locations,
+            1289 strings with 11403 characters,
+and the built_in function-call counts, 17762 in all, are:
+= -- 1977
+> -- 429
+< -- 374
++ -- 546
+- -- 127
+* -- 1190
+:= -- 2224
+add.period$ -- 43
+call.type$ -- 13
+change.case$ -- 139
+chr.to.int$ -- 34
+cite$ -- 12
+duplicate$ -- 1558
+empty$ -- 748
+format.name$ -- 596
+if$ -- 3669
+int.to.chr$ -- 0
+int.to.str$ -- 0
+missing$ -- 232
+newline$ -- 69
+num.names$ -- 60
+pop$ -- 338
+preamble$ -- 1
+purify$ -- 53
+quote$ -- 0
+skip$ -- 1597
+stack$ -- 1
+substring$ -- 783
+swap$ -- 617
+text.length$ -- 26
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 96
+width$ -- 0
+write$ -- 210
