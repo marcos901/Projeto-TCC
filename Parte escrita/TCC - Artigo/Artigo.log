@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.10.18)  19 NOV 2019 16:53
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.10.18)  20 NOV 2019 17:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -614,19 +614,19 @@ LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <12> not available
 (./Desenvolvimento.tex [3]) (./Conclusao.tex) [4] (./Artigo.bbl) [5]
 (./Artigo.aux) ) 
 Here is how much of TeX's memory you used:
- 3577 strings out of 494903
- 48819 string characters out of 6179960
- 118518 words of memory out of 5000000
- 6792 multiletter control sequences out of 15000+600000
+ 3618 strings out of 494903
+ 49393 string characters out of 6179960
+ 120836 words of memory out of 5000000
+ 6833 multiletter control sequences out of 15000+600000
  19704 words of font info for 41 fonts, out of 8000000 for 9000
  16 hyphenation exceptions out of 8191
- 41i,8n,25p,749b,379s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 41i,8n,25p,749b,386s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf
 -dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/typ
 e1/urw/times/utmri8a.pfb>
-Output written on Artigo.pdf (6 pages, 70691 bytes).
+Output written on Artigo.pdf (6 pages, 75334 bytes).
 PDF statistics:
  40 PDF objects out of 1000 (max. 8388607)
  27 compressed objects within 1 object stream

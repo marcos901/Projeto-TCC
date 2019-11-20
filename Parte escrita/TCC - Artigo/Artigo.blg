@@ -13,58 +13,55 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Database file #1: abntex2-options.bib
 Database file #2: Artigo.bib
-Unbalanced braces---line 208 of file Artigo.bib
- :  howpublished = "\urlhttps://www.python.org/about
- :                                                  }",
-I'm skipping whatever remains of this entry
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
 Reallocated global_strs (elt_size=20001) to 20 items from 10.
 Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Warning--campo title vazio em scikit
 +---------------------------------------------------------+
 | Estilo bibliográfico abntex2-alf.bst versão v-1.9.6           |
 | Em caso de dúvidas ou problemas com este estilo procure |
 | http://www.abntex.net.br/                               |
 +---------------------------------------------------------+
-You've used 9 entries,
+You've used 16 entries,
             6714 wiz_defined-function locations,
-            1260 strings with 10756 characters,
-and the built_in function-call counts, 14260 in all, are:
-= -- 1725
-> -- 294
+            1291 strings with 11654 characters,
+and the built_in function-call counts, 18507 in all, are:
+= -- 2031
+> -- 399
 < -- 361
-+ -- 498
-- -- 87
-* -- 918
-:= -- 1779
-add.period$ -- 31
-call.type$ -- 9
-change.case$ -- 95
-chr.to.int$ -- 21
-cite$ -- 8
-duplicate$ -- 1369
-empty$ -- 512
-format.name$ -- 410
-if$ -- 2851
++ -- 533
+- -- 122
+* -- 1174
+:= -- 2372
+add.period$ -- 64
+call.type$ -- 16
+change.case$ -- 149
+chr.to.int$ -- 28
+cite$ -- 16
+duplicate$ -- 1592
+empty$ -- 924
+format.name$ -- 571
+if$ -- 3870
 int.to.chr$ -- 0
 int.to.str$ -- 0
-missing$ -- 160
-newline$ -- 49
-num.names$ -- 40
-pop$ -- 252
+missing$ -- 284
+newline$ -- 83
+num.names$ -- 75
+pop$ -- 406
 preamble$ -- 1
-purify$ -- 37
+purify$ -- 58
 quote$ -- 0
-skip$ -- 1411
+skip$ -- 1650
 stack$ -- 1
-substring$ -- 612
-swap$ -- 509
+substring$ -- 755
+swap$ -- 604
 text.length$ -- 16
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 0
-warning$ -- 0
-while$ -- 63
+type$ -- 1
+warning$ -- 1
+while$ -- 105
 width$ -- 0
-write$ -- 141
-(There was 1 error message)
+write$ -- 245
+(There was 1 warning)

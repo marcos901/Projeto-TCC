@@ -24,6 +24,11 @@ ISBN 0415290058. Dispon{\'\i}vel em:
 ISBN 0123814790. Dispon{\'\i}vel em:
   \url{https://www.ebook.de/de/product/14641128/jiawei\_han\_micheline\_kamber\_jian\_pei\_data\_mining\_concepts\_and\_techniques.html}.}
 
+\bibitem[Jupyter 2019]{jupyter}
+\abntrefinfo{Jupyter}{JUPYTER}{2019}
+{JUPYTER, P. \emph{{Jupyter}}. 2019. \url{https://jupyter.org/}.
+[Online; accessed 19-Nov-2019].}
+
 \bibitem[Kahn 2003]{Kahn2003}
 \abntrefinfo{Kahn}{KAHN}{2003}
 {KAHN, J. Neural network prediction of nfl football games.
@@ -35,11 +40,28 @@ ISBN 0123814790. Dispon{\'\i}vel em:
 \emph{Machine Learning}, v.~59, n.~1, p. 161--205, May 2005.
 Dispon{\'\i}vel em: \url{https://doi.org/10.1007/s10994-005-0466-3}.}
 
+\bibitem[Matplotlib 2019]{matplotlib}
+\abntrefinfo{Matplotlib}{MATPLOTLIB}{2019}
+{MATPLOTLIB. \emph{{Entendendo a biblioteca matplotlib}}. 2019.
+  \url{https://matplotlib.org/}.
+[Online; accessed 20-Nov-2019].}
+
+\bibitem[Pandas 2019]{pandas}
+\abntrefinfo{Pandas}{PANDAS}{2019}
+{PANDAS. \emph{{O projeto dos pandas}}. 2019. \url{https://pandas.pydata.org/}.
+[Online; accessed 20-Nov-2019].}
+
 \bibitem[Purucker 1996]{Purucker1996}
 \abntrefinfo{Purucker}{PURUCKER}{1996}
 {PURUCKER, M. Neural network quarterbacking.
 \emph{{IEEE} Potentials}, Institute of Electrical and Electronics Engineers
   ({IEEE}), v.~15, n.~3, p. 9--15, 1996.}
+
+\bibitem[Santiago 2019]{numpy}
+\abntrefinfo{Santiago}{SANTIAGO}{2019}
+{SANTIAGO, L. \emph{{Entendendo a biblioteca NumPy}}. 2019.
+  \url{https://medium.com/ensina-ai/entendendo-a-biblioteca-numpy-4858fde63355}.
+[Online; accessed 20-Nov-2019].}
 
 \bibitem[Schumaker, Solieman e Chen 2010]{Schumaker2010}
 \abntrefinfo{Schumaker, Solieman e Chen}{SCHUMAKER; SOLIEMAN; CHEN}{2010}
@@ -47,6 +69,26 @@ Dispon{\'\i}vel em: \url{https://doi.org/10.1007/s10994-005-0466-3}.}
   data mining.
 \emph{Annual Review of Information Science and Technology}, Wiley, v.~44, n.~1,
   p. 115--157, 2010.}
+
+\bibitem[Seaborn 2019]{seaborn}
+\abntrefinfo{Seaborn}{SEABORN}{2019}
+{SEABORN. \emph{{Entendendo a biblioteca Seaborn}}. 2019.
+  \url{https://seaborn.pydata.org/}.
+[Online; accessed 20-Nov-2019].}
+
+\bibitem[technology 2019]{python}
+\abntrefinfo{technology}{TECHNOLOGY}{2019}
+{TECHNOLOGY, J. \emph{{Sobre o Python}}. 2019.
+  \url{https://www.python.org/about}.
+[Online; accessed 19-Nov-2019].}
+
+\bibitem[Varoquaux 2013]{scikit}
+\abntrefinfo{Varoquaux}{VAROQUAUX}{2013}
+{VAROQUAUX, L.~B. e~Gilles Louppe e Mathieu Blondel e Fabian Pedregosa e
+  Andreas Mueller e Olivier Grisel e Vlad Niculae e Peter Prettenhofer e
+  Alexandre Gramfort e Jaques Grobler e Robert Layton e Jake VanderPlas e
+  Arnaud Joly e Brian Holt e Ga { \ " {e} }~l. In:  \emph{ECML PKDD Oficina :
+  Línguas de dados Mining e Máquina de Aprendizagem}. [S.l.: s.n.], 2013.}
 
 \bibitem[Witten et al. 2017]{Witten2017}
 \abntrefinfo{Witten et al.}{WITTEN et al.}{2017}
