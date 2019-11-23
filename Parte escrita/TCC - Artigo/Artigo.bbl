@@ -10,12 +10,37 @@
 {BERNARD, L.; EARL, B.; W, B.~K. Predicting nba games using neural networks.
 \emph{Journal of Quantitative Analysis in Sports}, v.~5, n.~1, p. 1--17, 2009.}
 
+\bibitem[Bogoni 2019]{Bogoni2019}
+\abntrefinfo{Bogoni}{BOGONI}{2019}
+{BOGONI, J.~P. \emph{APLICAÇÃO DE TÉCNICAS DE MINERAÇÃO DE DADOS
+  PARAPREVISÃO DE JOGOS DE BASQUETE}. [S.l.]: UNIVERSIDADE DO VALE DO TAQUARI,
+  2019.}
+
+\bibitem[Castro 2016]{castro}
+\abntrefinfo{Castro}{CASTRO}{2016}
+{CASTRO, L. D. \emph{Introdução À Mineração De Dados: CONCEITOS BÁSICOS,
+  ALGORITMOS E APLICAÇÕES}. SARAIVA EDITORA, 2016.
+ISBN 9788547200985. Dispon{\'\i}vel em:
+  \url{https://books.google.com.br/books?id=7HxSvgAACAAJ}.}
+
+\bibitem[DeGennaro 2019]{nba}
+\abntrefinfo{DeGennaro}{DEGENNARO}{2019}
+{DEGENNARO, K. \emph{{BWorld Robot Control Software}}. 2019.
+  \url{https://news.sap.com/2017/08/corporate-sponsorships-reimagined-nba/}.
+[Online; accessed 19-Nov-2019].}
+
 \bibitem[Franks 2004]{Taylor2004}
 \abntrefinfo{Franks}{FRANKS}{2004}
 {FRANKS, I.~M. \emph{Notational Analysis of Sport}. Taylor \& Francis Ltd,
   2004.
 ISBN 0415290058. Dispon{\'\i}vel em:
   \url{https://www.ebook.de/de/product/3473295/notational\_analysis\_of\_sport.html}.}
+
+\bibitem[Griffiths 2010]{Griffiths2010}
+\abntrefinfo{Griffiths}{GRIFFITHS}{2010}
+{GRIFFITHS, M. Online video gaming: what should educational psychologists know?
+\emph{Educational Psychology in Practice}, Informa {UK} Limited, v.~26, n.~1,
+  p. 35--40, mar 2010.}
 
 \bibitem[Han, Kamber e Pei 2017]{Han2017}
 \abntrefinfo{Han, Kamber e Pei}{HAN; KAMBER; PEI}{2017}
@@ -34,6 +59,18 @@ ISBN 0123814790. Dispon{\'\i}vel em:
 {KAHN, J. Neural network prediction of nfl football games.
 \emph{World Wide Web Electronic Publication}, 01 2003.}
 
+\bibitem[Kamgar-Parsi e Kanal 1985]{KamgarParsi1985}
+\abntrefinfo{Kamgar-Parsi e Kanal}{KAMGAR-PARSI; KANAL}{1985}
+{KAMGAR-PARSI, B.; KANAL, L.~N. An improved branch and bound algorithm for
+  computing k-nearest neighbors.
+\emph{Pattern Recognition Letters}, Elsevier {BV}, v.~3, n.~1, p. 7--12, jan
+  1985.}
+
+\bibitem[Kononenko 1995]{Kononenko95}
+\abntrefinfo{Kononenko}{KONONENKO}{1995}
+{KONONENKO, I. On biases in estimating multi-valued attributes.
+Morgan Kaufmann, p. 1034--1040, 1995.}
+
 \bibitem[Landwehr, Hall e Frank 2005]{Landwehr2005}
 \abntrefinfo{Landwehr, Hall e Frank}{LANDWEHR; HALL; FRANK}{2005}
 {LANDWEHR, N.; HALL, M.; FRANK, E. Logistic model trees.
@@ -50,6 +87,14 @@ Dispon{\'\i}vel em: \url{https://doi.org/10.1007/s10994-005-0466-3}.}
 \abntrefinfo{Pandas}{PANDAS}{2019}
 {PANDAS. \emph{{O projeto dos pandas}}. 2019. \url{https://pandas.pydata.org/}.
 [Online; accessed 20-Nov-2019].}
+
+\bibitem[Papi{\'{c}}, Rogulj e Ple{\v{s}}tina 2009]{Papic2009}
+\abntrefinfo{Papi{\'{c}}, Rogulj e Ple{\v{s}}tina}{PAPI{\'{C}}; ROGULJ;
+  PLE{\v{S}}TINA}{2009}
+{PAPI{\'{C}}, V.; ROGULJ, N.; PLE{\v{S}}TINA, V. Identification of sport
+  talents using a web-oriented expert system with a fuzzy module.
+\emph{Expert Systems with Applications}, Elsevier {BV}, v.~36, n.~5, p.
+  8830--8838, jul 2009.}
 
 \bibitem[Purucker 1996]{Purucker1996}
 \abntrefinfo{Purucker}{PURUCKER}{1996}
@@ -76,6 +121,18 @@ Dispon{\'\i}vel em: \url{https://doi.org/10.1007/s10994-005-0466-3}.}
   \url{https://seaborn.pydata.org/}.
 [Online; accessed 20-Nov-2019].}
 
+\bibitem[Stekler, Sendor e Verlander 2010]{Stekler2010}
+\abntrefinfo{Stekler, Sendor e Verlander}{STEKLER; SENDOR; VERLANDER}{2010}
+{STEKLER, H.; SENDOR, D.; VERLANDER, R. Issues in sports forecasting.
+\emph{International Journal of Forecasting}, Elsevier {BV}, v.~26, n.~3, p.
+  606--621, jul 2010.}
+
+\bibitem[Tan 2009]{Tan2009}
+\abntrefinfo{Tan}{TAN}{2009}
+{TAN. \emph{Introduc\~ao ao datamining : minerac\~ao de dados}. Rio de
+  Janeiro (RJ: Ciencia Moderna, 2009.
+ISBN 8573937610.}
+
 \bibitem[technology 2019]{python}
 \abntrefinfo{technology}{TECHNOLOGY}{2019}
 {TECHNOLOGY, J. \emph{{Sobre o Python}}. 2019.
@@ -95,5 +152,11 @@ Dispon{\'\i}vel em: \url{https://doi.org/10.1007/s10994-005-0466-3}.}
 {WITTEN, I. et al. \emph{Data Mining}. Elsevier LTD, Oxford, 2017.
 ISBN 0128042915. Dispon{\'\i}vel em:
   \url{https://www.ebook.de/de/product/26440029/ian\_witten\_eibe\_frank\_mark\_a\_hall\_christopher\_j\_pal\_data\_mining.html}.}
+
+\bibitem[Witten 2011]{Witten2011}
+\abntrefinfo{Witten}{WITTEN}{2011}
+{WITTEN, I.~H. \emph{Data mining practical machine learning tools and
+  techniques}. Burlington, MA: Morgan Kaufmann, 2011.
+ISBN 0123748569.}
 
 \end{thebibliography}

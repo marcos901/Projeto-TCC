@@ -1,0 +1,14 @@
+% Encoding: UTF-8
+
+@Book{Witten2017,
+  author    = {Witten, Ian and Frank, Eibe and Hall, Mark A. and Pal, Christopher J.},
+  publisher = {Elsevier LTD, Oxford},
+  title     = {Data Mining},
+  year      = {2017},
+  isbn      = {0128042915},
+  date      = {2017-01-01},
+  ean       = {9780128042915},
+  url       = {https://www.ebook.de/de/product/26440029/ian_witten_eibe_frank_mark_a_hall_christopher_j_pal_data_mining.html},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}
