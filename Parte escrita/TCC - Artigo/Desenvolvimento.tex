@@ -47,7 +47,120 @@ Apos a retirada das características que não serão usadas foi feito um process
 
 Com as base de dados preparada foi feito uma divisão na base, sendo dividida em duas parte uma para teste e outra para treino, com a base de teste contendo 30 \% dos dados e a base treino contendo os outra 70 \%. com a base separa em quatro vetores sendo os vetores x\_treino, x\_teste, y\_treino, y\_teste.
 
-Logo após a divisão dos vetores foi feita a instanciação do algoritmos que sera utilizado, foi chamada a função de treino do algoritmo. Em seguida ao treino da base ser realizado foi feita a chamada do função de predição, para mostrar os dados foi realizado um plote contendo os dados reais e o que foi previsto, também foi realizado exibição das métricas de erro do algorítimo. A seguir foi realizados a predição usando o método do \textit{Cros Validation} para ver se haveria melhoria na predição dos dados. 
+Logo após a divisão dos vetores foi feita a instanciação do algoritmos que sera utilizado, foi chamada a função de treino do algoritmo. Em seguida ao treino da base ser realizado foi feita a chamada do função de predição, para mostrar os dados foi realizado um plote contendo os dados reais e o que foi previsto, também foi realizado exibição das métricas de erro do algorítimo. A seguir foi realizados a predição usando o método do \textit{Cros Validation} para ver se haveria melhoria na predição dos dados.
 
+\subsection{RESULTADOS} 
+
+Apos a construção dos algoritmos irei mostrar os resultados dos teste de cada algoritmo com as duas bases de dados e faz no final fazer um comparativo entre o desempenho dos algoritmos.
+
+O algoritmo de regressão linear com a base1\footnote[4]{base de dados de 2014 a 2018 com 9.840 jogo} teve um taxa de acerto de 65\%, veja o grafico de relação entre os dados reais e os previstos. Após aplicar \textit{Cros Validation} o essa taxa teve um aumento de 2\%.
+\begin{figure}[htbp]
+	\begin{center}
+		\includegraphics[width=0.7\linewidth]{imagens/regressailinear.png}\\
+	\end{center}
+	\caption[relação entre os dados reais e os previstos]{relação entre os dados reais e os previstos}
+	\label{fig:logo}
+	%%\legend{Fonte: Próprio Autor}
+\end{figure}
+
+O algoritmo de regressão linear com a base2\footnote[5]{base de dados de 2007 a 2019 com 30.000 jogos} teve um taxa de acerto de 68\%, veja o grafico de relação entre os dados reais e os previstos. Após aplicar o \textit{Cros Validation} essa taxa teve um aumento de 3.6\%.
+\begin{figure}[htbp]
+	\begin{center}
+		\includegraphics[width=0.7\linewidth]{imagens/regressailinearAPI.png}\\
+	\end{center}
+	\caption[relação entre os dados reais e os previstos]{relação entre os dados reais e os previstos}
+	\label{fig:logo}
+	%%\legend{Fonte: Próprio Autor}
+\end{figure}
+
+O algoritmo de arvore decisão com a base1\footnote[4]{base de dados de 2014 a 2018 com 9.840 jogo} teve um taxa de acerto de 89.7\%, veja o grafico de relação entre os dados reais e os previstos. Após aplicar o \textit{Cros Validation} essa taxa teve um aumento de 4\%.
+\begin{figure}[htbp]
+	\begin{center}
+		\includegraphics[width=0.7\linewidth]{imagens/arvoredecisao.png}\\
+	\end{center}
+	\caption[relação entre os dados reais e os previstos]{relação entre os dados reais e os previstos}
+	\label{fig:logo}
+	%%\legend{Fonte: Próprio Autor}
+\end{figure}
+
+O algoritmo de arvore decisão com a base2\footnote[5]{base de dados de 2007 a 2019 com 30.000 jogos} teve um taxa de acerto de 97\%, veja o grafico de relação entre os dados reais e os previstos. Após aplicar o \textit{Cros Validation} essa taxa teve um  aumento de 3\%.
+\begin{figure}[htbp]
+	\begin{center}
+		\includegraphics[width=0.7\linewidth]{imagens/arvoredecisaoAPI.png}\\
+	\end{center}
+	\caption[relação entre os dados reais e os previstos]{relação entre os dados reais e os previstos}
+	\label{fig:logo}
+	%%\legend{Fonte: Próprio Autor}
+\end{figure}
+
+O algoritmo de k-NN\footnote[3]{k-nearest neighbors} com a base1 teve um taxa de acerto de 85\%, veja o grafico de relação entre os dados reais e os previstos. Após aplicar o \textit{Cros Validation} essa taxa teve um aumento de 2.8\%.
+\begin{figure}[htbp]
+	\begin{center}
+		\includegraphics[width=0.7\linewidth]{imagens/knn.png}\\
+	\end{center}
+	\caption[relação entre os dados reais e os previstos]{relação entre os dados reais e os previstos}
+	\label{fig:logo}
+	%%\legend{Fonte: Próprio Autor}
+\end{figure}
+
+O algoritmo de k-NN\footnote[3]{k-nearest neighbors} com a base2\footnote[5]{base de dados de 2007 a 2019 com 30.000 jogos} teve um taxa de acerto de 87\%, veja o grafico de relação entre os dados reais e os previstos.Após aplicar o \textit{Cros Validation} essa taxa teve um aumento de 3.3\%.
+\begin{figure}[htbp]
+	\begin{center}
+		\includegraphics[width=0.7\linewidth]{imagens/knnAPI.png}\\
+	\end{center}
+	\caption[relação entre os dados reais e os previstos]{relação entre os dados reais e os previstos}
+	\label{fig:logo}
+	%%\legend{Fonte: Próprio Autor}
+\end{figure}
+
+O algoritmo de floresta aleatória com a base2 inicialmente foi testado com 10 arvores chegando a um resultado de 94\% na taxa de acerto.
+\begin{figure}[htbp]
+	\begin{center}
+		\includegraphics[width=0.7\linewidth]{imagens/florestaaleatoria.png}\\
+	\end{center}
+	\caption[relação entre os dados reais e os previstos com 10 arvores]{relação entre os dados reais e os previstos com 10 arvores}
+	\label{fig:logo}
+	%%\legend{Fonte: Próprio Autor}
+\end{figure}
+
+O algoritmo de floresta aleatória com a base2 o teste com 53 arvores o teste conseguiu atingir uma faixa de os 99\% e 100\% de precisão. Para sempre ter um taxa contante de 100\% de acerto são necessária mais de 100 arvores.
+\begin{figure}[htbp]
+	\begin{center}
+		\includegraphics[width=0.7\linewidth]{imagens/florestaaleatoriaAPI.png}\\
+	\end{center}
+	\caption[relação entre os dados reais e os previstos com 53 arvores]{relação entre os dados reais e os previstos com 53 arvores}
+	\label{fig:logo}
+	%%\legend{Fonte: Próprio Autor}
+\end{figure}
+\newpage
+O algoritmo de regressão logística tanto com a base1\footnote[4]{base de dados de 2014 a 2018 com 9.840 jogo} é com a  base2\footnote[5]{base de dados de 2007 a 2019 com 30.000 jogos} teve um taxa de acerto de 100\%, veja o grafico de relação entre os dados reais e os previstos.
+\begin{figure}[htbp]
+	\begin{center}
+		\includegraphics[width=0.7\linewidth]{imagens/regressaologistocaAPI.png}\\
+	\end{center}
+	\caption[relação entre os dados reais e os previstos]{relação entre os dados reais e os previstos}
+	\label{fig:logo}
+	%%\legend{Fonte: Próprio Autor}
+\end{figure}
+
+O algoritmo de máquinas de vetores de suporte com a base1 teve um taxa de acerto de 80\%, veja o grafico de relação entre os dados reais e os previstos.
+\begin{figure}[htbp]
+	\begin{center}
+		\includegraphics[width=0.7\linewidth]{imagens/SVM.png}\\
+	\end{center}
+	\caption[relação entre os dados reais e os previstos]{relação entre os dados reais e os previstos}
+	\label{fig:logo}
+	%%\legend{Fonte: Próprio Autor}
+\end{figure}
+
+O algoritmo de máquinas de vetores de suporte com a base1 teve um taxa de acerto de 87\%, veja o grafico de relação entre os dados reais e os previstos.
+\begin{figure}[htbp]
+	\begin{center}
+		\includegraphics[width=0.7\linewidth]{imagens/SVMAPI.png}\\
+	\end{center}
+	\caption[relação entre os dados reais e os previstos]{relação entre os dados reais e os previstos}
+	\label{fig:logo}
+	%%\legend{Fonte: Próprio Autor}
+\end{figure}
 
 
