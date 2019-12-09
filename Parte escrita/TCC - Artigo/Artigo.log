@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.10.18)  9 DEC 2019 18:11
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.10.18)  9 DEC 2019 18:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -664,49 +664,49 @@ Underfull \vbox (badness 10000) detected at line 64
  []
 
 [6]
-Underfull \vbox (badness 10000) detected at line 85
+Underfull \vbox (badness 10000) detected at line 84
  []
 
 
-Underfull \vbox (badness 10000) detected at line 111
+Underfull \vbox (badness 10000) detected at line 110
  []
 
 [7]
-Underfull \vbox (badness 10000) detected at line 133
+Underfull \vbox (badness 10000) detected at line 132
  []
 
 [8]
 <imagens/regressailinear.png, id=35, 1192.455pt x 327.2225pt>
 File: imagens/regressailinear.png Graphic file (type png)
 <use imagens/regressailinear.png>
-Package pdftex.def Info: imagens/regressailinear.png  used on input line 156.
+Package pdftex.def Info: imagens/regressailinear.png  used on input line 155.
 (pdftex.def)             Requested size: 318.66948pt x 87.44252pt.
 <imagens/regressailinearAPI.png, id=37, 1192.455pt x 327.2225pt>
 File: imagens/regressailinearAPI.png Graphic file (type png)
 <use imagens/regressailinearAPI.png>
-Package pdftex.def Info: imagens/regressailinearAPI.png  used on input line 166
+Package pdftex.def Info: imagens/regressailinearAPI.png  used on input line 165
 .
 (pdftex.def)             Requested size: 318.66948pt x 87.44252pt.
 <imagens/arvoredecisao.png, id=38, 1192.455pt x 327.2225pt>
 File: imagens/arvoredecisao.png Graphic file (type png)
 <use imagens/arvoredecisao.png>
-Package pdftex.def Info: imagens/arvoredecisao.png  used on input line 176.
+Package pdftex.def Info: imagens/arvoredecisao.png  used on input line 175.
 (pdftex.def)             Requested size: 318.66948pt x 87.44252pt.
  [9 <./imagens/regressailinear.png> <./imagens/regressailinearAPI.png>]
 <imagens/arvoredecisaoAPI.png, id=44, 1192.455pt x 327.2225pt>
 File: imagens/arvoredecisaoAPI.png Graphic file (type png)
 <use imagens/arvoredecisaoAPI.png>
-Package pdftex.def Info: imagens/arvoredecisaoAPI.png  used on input line 186.
+Package pdftex.def Info: imagens/arvoredecisaoAPI.png  used on input line 185.
 (pdftex.def)             Requested size: 318.66948pt x 87.44252pt.
 <imagens/knn.png, id=45, 1192.455pt x 327.2225pt>
 File: imagens/knn.png Graphic file (type png)
 <use imagens/knn.png>
-Package pdftex.def Info: imagens/knn.png  used on input line 196.
+Package pdftex.def Info: imagens/knn.png  used on input line 195.
 (pdftex.def)             Requested size: 318.66948pt x 87.44252pt.
 <imagens/knnAPI.png, id=46, 1192.455pt x 327.2225pt>
 File: imagens/knnAPI.png Graphic file (type png)
 <use imagens/knnAPI.png>
-Package pdftex.def Info: imagens/knnAPI.png  used on input line 206.
+Package pdftex.def Info: imagens/knnAPI.png  used on input line 205.
 (pdftex.def)             Requested size: 318.66948pt x 87.44252pt.
 
 [10 <./imagens/arvoredecisao.png> <./imagens/arvoredecisaoAPI.png> <./imagens/k
@@ -714,14 +714,14 @@ nn.png>]
 <imagens/florestaaleatoria.png, id=53, 1192.455pt x 327.2225pt>
 File: imagens/florestaaleatoria.png Graphic file (type png)
 <use imagens/florestaaleatoria.png>
-Package pdftex.def Info: imagens/florestaaleatoria.png  used on input line 216.
+Package pdftex.def Info: imagens/florestaaleatoria.png  used on input line 215.
 
 (pdftex.def)             Requested size: 318.66948pt x 87.44252pt.
 <imagens/florestaaleatoriaAPI.png, id=54, 1192.455pt x 327.2225pt>
 File: imagens/florestaaleatoriaAPI.png Graphic file (type png)
 <use imagens/florestaaleatoriaAPI.png>
 Package pdftex.def Info: imagens/florestaaleatoriaAPI.png  used on input line 2
-26.
+25.
 (pdftex.def)             Requested size: 318.66948pt x 87.44252pt.
  [11 <./imagens/knnAPI.png> <./imagens/florestaaleatoria.png (PNG copy)> <./ima
 gens/florestaaleatoriaAPI.png>]
@@ -729,17 +729,17 @@ gens/florestaaleatoriaAPI.png>]
 File: imagens/regressaologistocaAPI.png Graphic file (type png)
 <use imagens/regressaologistocaAPI.png>
 Package pdftex.def Info: imagens/regressaologistocaAPI.png  used on input line 
-236.
+235.
 (pdftex.def)             Requested size: 318.66948pt x 87.44252pt.
 <imagens/SVM.png, id=61, 1192.455pt x 327.2225pt>
 File: imagens/SVM.png Graphic file (type png)
 <use imagens/SVM.png>
-Package pdftex.def Info: imagens/SVM.png  used on input line 246.
+Package pdftex.def Info: imagens/SVM.png  used on input line 245.
 (pdftex.def)             Requested size: 318.66948pt x 87.44252pt.
 <imagens/SVMAPI.png, id=62, 1192.455pt x 327.2225pt>
 File: imagens/SVMAPI.png Graphic file (type png)
 <use imagens/SVMAPI.png>
-Package pdftex.def Info: imagens/SVMAPI.png  used on input line 256.
+Package pdftex.def Info: imagens/SVMAPI.png  used on input line 255.
 (pdftex.def)             Requested size: 318.66948pt x 87.44252pt.
 ) (./Conclusao.tex [12 <./imagens/regressaologistocaAPI.png> <./imagens/SVM.png
 > <./imagens/SVMAPI.png>]) [13]
@@ -751,7 +751,7 @@ LaTeX Warning: There were multiply-defined labels.
 Here is how much of TeX's memory you used:
  3832 strings out of 494903
  52942 string characters out of 6179960
- 130308 words of memory out of 5000000
+ 131309 words of memory out of 5000000
  7031 multiletter control sequences out of 15000+600000
  19704 words of font info for 41 fonts, out of 8000000 for 9000
  16 hyphenation exceptions out of 8191
@@ -761,7 +761,7 @@ e/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/ty
 pe1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/u
 tmri8a.pfb>
-Output written on Artigo.pdf (16 pages, 198355 bytes).
+Output written on Artigo.pdf (16 pages, 198607 bytes).
 PDF statistics:
  95 PDF objects out of 1000 (max. 8388607)
  51 compressed objects within 1 object stream
