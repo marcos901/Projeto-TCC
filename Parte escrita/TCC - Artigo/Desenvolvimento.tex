@@ -39,9 +39,58 @@ A técnica de máquinas de vetores de suporte, têm como fundamento o aprendizad
 
 Para desenviolamento e testes foi necessário a escrita dos algoritmos,para o começo foi importadas as bibliotecas, e foi carregada as bases de dados, apos a base de dados ser carregadas em um \textit{dataframe}. foi feita a avaliação de ambas as bases e feita a escolha das características que seria usadas para a predição.
 
-A base1\footnote{base de dados de 2014 a 2018 com 9.840} contendo 40 características sendo elas \textit{team}, \textit{game}, \textit{date}, \textit{home}, \textit{opponent}, \textit{winorloss}, \textit{team points}, \textit{opponent points}, \textit{field goals}, \textit{field goals attempted}, \textit{X3 point shots}, \textit{X3 point shots attempted},   \textit{x3 point shots}, \textit{free throws}, \textit{free throws attempted}, \textit{free throws}, \textit{off rebounds}, \textit{Total rebounds}, \textit{assists}, \textit{steals}, \textit{blocks}, \textit{turnovers}, \textit{total fouls}, \textit{opp field goals}, \textit{opp field goals attempted}, \textit{opp field goals }, \textit{opp 3 point shots}, \textit{opp 3 point shots attempted}, \textit{opp free throws }, \textit{opp off rebounds}, \textit{opp total rebounds}, \textit{opp assists}, \textit{opp steals}, \textit{opp blocks}, \textit{opp turnovers}, \textit{opp total fouls} depois de um analise as características que não foram relevante foram excluídas da base se dados as que foram retirada sao as \textit{team}, \textit{game}, \textit{date}, \textit{home}, \textit{opponent}.
+A base1\footnote{base de dados de 2014 a 2018 com 9.840} contendo 34 características sendo elas: 
+\begin{table}[htbp]
+	\begin{longtable}{|l|l|} \hline 
+		Características              & Descrição                                                                                                                                   \\ \hline 
+		team                & sigla do time                                                                                                                               \\ \hline
+		game                          & id do jogo                                                                                                                                  \\ \hline
+		date                         & data do jogo                                                                                                                                \\ \hline
+		opponent                      & sigla do oponente                                                                                                                           \\ \hline
+		winorloss                    & vitoria e derrota                                                                                                                           \\ \hline
+		team points                & pontos do time                                                                                                                              \\ \hline
+		opponent points               & pontos do oponente                                                                                                                          \\ \hline
+		field goals                   & \begin{tabular}[c]{@{}l@{}}cesta marcada em qualquer \\ arremesso ou toque que não \\ seja lance livre\end{tabular}                         \\ \hline
+		field goals attempted        & \begin{tabular}[c]{@{}l@{}}tentativa cesta marcada em \\ qualquer arremesso ou toque \\ que não seja lance livre\end{tabular}               \\ \hline
+		X3 point shots               & cesta de 3 pontos                                                                                                                           \\ \hline
+		X3 point shots attempted     & tentativa de cesta de 3 pontos                                                                                                              \\ \hline
+		X3 point shots opp            & cesta de 3 pontos oponente                                                                                                                  \\ \hline
+		X3 point shots attempted opp & \begin{tabular}[c]{@{}l@{}}tentativa de cesta de 3 pontos\\ oponente\end{tabular}                                                           \\ \hline
+		free throws                 & arremessos livres                                                                                                                           \\ \hline
+		free throws attempted       & tentativa de arremessos livres                                                                                                              \\ \hline
+		free throws opp               & arremessos livres oponente                                                                                                                  \\ \hline
+		free throws attempted opp   & \begin{tabular}[c]{@{}l@{}}tentativa de arremessos livres\\ oponente\end{tabular}                                                           \\ \hline
+		rebounds                      & rebotes                                                                                                                                     \\ \hline
+		Total rebounds               & total de rebotes                                                                                                                            \\ \hline
+		assists                       & assistência                                                                                                                                 \\ \hline
+		steals                       & roubada de bola                                                                                                                             \\ \hline
+		blocks                       & bloqueio de bola                                                                                                                            \\ \hline
+		turnovers                    & rotatividade                                                                                                                                \\ \hline
+		total fouls                    & falta total                                                                                                                                 \\ \hline		
+	\end{longtable}
+\end{table}
+\newpage
+\begin{table}[htbp]
+	\begin{longtable}{|l|l|} \hline 
+		opp field goals              & \begin{tabular}[c]{@{}l@{}}cesta marcada em qualquer \\ arremesso ou toque que não \\ seja lance livre do oponente\end{tabular}             \\ \hline
+		opp field goals attempted    & \begin{tabular}[c]{@{}l@{}}tentativa cesta marcada em \\ qualquer arremesso ou toque \\ que não seja lance livre do\\ oponente\end{tabular} \\ \hline
+		opp off rebounds              & rebotes dos oponentes                                                                                                                       \\ \hline
+		opp total rebounds           & total de rebote dos oponentes                                                                                                               \\ \hline
+		opp assists                  & assistência oponente                                                                                                                        \\ \hline
+		opp steals                   & roubada de bola oponente                                                                                                                    \\ \hline
+		opp blocks                   & bloqueio de bola oponente                                                                                                                   \\ \hline
+		opp turnovers                 & rotatividade do oponente                                                                                                                    \\ \hline
+		opp total fouls              & total de faltas do oponente \\ \hline                                                                                                               
+\end{longtable}
+\end{table}
 
-A base2\footnote{base de dados de 2007 a 2019 com 30.000 jogos} contendo 30 características sendo elas \textit{season id},  \textit{team id}, \textit{team abbreviation}, \textit{team name}, \textit{game id}, \textit{team out}, \textit{match up}	\textit{gamedate}, \textit{(W/L)win loss}, \textit{minutes}, \textit{played}, \textit{points}, \textit{field goals made},  \textit{field goals attempted}, \textit{field goal percentage}, \textit{3 point field goals made}, \textit{3 point field goals attempted}, \textit{3 point field goal percentage}, \textit{free throws made}, \textit{free throws attempted},  \textit{free throw percentage}, \textit{offensive rebounds}, \textit{defensive rebounds}, \textit{rebounds},  \textit{assists}, \textit{steals}, \textit{blocks}, \textit{turnovers}, \textit{personal}, \textit{fouls}, \textit{plus minus} depois de um analise as características que não foram relevante foram excluídas da base se dados as que foram retirada sao as \textit{season id}, \textit{team id}, \textit{team abbreviation}, \textit{team name}, \textit{game id}, \textit{team out}, \textit{match up}, \textit{gamedate}.
+Depois de um analise as características que não foram relevante foram excluídas da base se dados as que foram retirada sao as \textit{team}, \textit{game}, \textit{date}, \textit{home}, \textit{opponent}.
+
+A base2\footnote{base de dados de 2007 a 2019 com 30.000 jogos} contendo 30 características sendo elas:
+\newpage
+
+ 
+ Depois de um analise as características que não foram relevante foram excluídas da base se dados as que foram retirada sao as \textit{season id}, \textit{team id}, \textit{team abbreviation}, \textit{team name}, \textit{game id}, \textit{team out}, \textit{match up}, \textit{gamedate}.
 
 Apos a retirada das características que não serão usadas foi feito um processamento nos dados, transformando as colunas \textit{(W/L)win loss} e \textit{winorloss} que continha dos dados de vitoria como "L" e derrota como "L", as linha contendo "W" foi convertida para "1" as com "L" para "0". É verificando se a dados faltantes na base de dados, caso houve-se dados faltante  as lacunas foi preenchida com a media dos dados da receptiva coluna.
 

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.10.18)  27 NOV 2019 19:05
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.10.18)  9 DEC 2019 16:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -460,6 +460,24 @@ Package: relsize 2013/03/29 ver 4.1
 LaTeX Info: Redefining \newblock on input line 591.
 LaTeX Info: Redefining \cite on input line 618.
 \ABCItoken=\toks18
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip49
+\LTright=\skip50
+\LTpre=\skip51
+\LTpost=\skip52
+\LTchunksize=\count97
+\LTcapwidth=\dimen116
+\LT@head=\box26
+\LT@firsthead=\box27
+\LT@foot=\box28
+\LT@lastfoot=\box29
+\LT@cols=\count98
+\LT@rows=\count99
+\c@LT@tables=\count100
+\c@LT@chunks=\count101
+\LT@p@ftn=\toks19
 ) (./Artigo.aux
 
 LaTeX Warning: Label `fig:logo' multiply defined.
@@ -494,35 +512,35 @@ LaTeX Warning: Label `fig:logo' multiply defined.
 )
 \openout1 = `Artigo.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Try loading font information for OT1+ptm on input line 23.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 24.
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count97
-\scratchdimen=\dimen116
-\scratchbox=\box26
-\nofMPsegments=\count98
-\nofMParguments=\count99
-\everyMPshowfont=\toks19
-\MPscratchCnt=\count100
-\MPscratchDim=\dimen117
-\MPnumerator=\count101
-\makeMPintoPDFobject=\count102
-\everyMPtoPDFconversion=\toks20
+\scratchcounter=\count102
+\scratchdimen=\dimen117
+\scratchbox=\box30
+\nofMPsegments=\count103
+\nofMParguments=\count104
+\everyMPshowfont=\toks20
+\MPscratchCnt=\count105
+\MPscratchDim=\dimen118
+\MPnumerator=\count106
+\makeMPintoPDFobject=\count107
+\everyMPtoPDFconversion=\toks21
 ) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
@@ -641,95 +659,104 @@ File: omsptm.fd
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 37.
  [2])
-(./Desenvolvimento.tex [3] [4] [5] [6]
-<imagens/regressailinear.png, id=29, 1192.455pt x 327.2225pt>
+(./Desenvolvimento.tex [3] [4] [5]
+Underfull \vbox (badness 10000) detected at line 64
+ []
+
+[6]
+Underfull \vbox (badness 10000) detected at line 84
+ []
+
+[7]
+<imagens/regressailinear.png, id=32, 1192.455pt x 327.2225pt>
 File: imagens/regressailinear.png Graphic file (type png)
 <use imagens/regressailinear.png>
-Package pdftex.def Info: imagens/regressailinear.png  used on input line 59.
+Package pdftex.def Info: imagens/regressailinear.png  used on input line 108.
 (pdftex.def)             Requested size: 318.66948pt x 87.44252pt.
-<imagens/regressailinearAPI.png, id=31, 1192.455pt x 327.2225pt>
+<imagens/regressailinearAPI.png, id=34, 1192.455pt x 327.2225pt>
 File: imagens/regressailinearAPI.png Graphic file (type png)
 <use imagens/regressailinearAPI.png>
-Package pdftex.def Info: imagens/regressailinearAPI.png  used on input line 69.
-
+Package pdftex.def Info: imagens/regressailinearAPI.png  used on input line 118
+.
 (pdftex.def)             Requested size: 318.66948pt x 87.44252pt.
-<imagens/arvoredecisao.png, id=32, 1192.455pt x 327.2225pt>
+ [8]
+<imagens/arvoredecisao.png, id=38, 1192.455pt x 327.2225pt>
 File: imagens/arvoredecisao.png Graphic file (type png)
 <use imagens/arvoredecisao.png>
-Package pdftex.def Info: imagens/arvoredecisao.png  used on input line 79.
+Package pdftex.def Info: imagens/arvoredecisao.png  used on input line 128.
 (pdftex.def)             Requested size: 318.66948pt x 87.44252pt.
- [7 <./imagens/regressailinear.png> <./imagens/regressailinearAPI.png>]
-<imagens/arvoredecisaoAPI.png, id=38, 1192.455pt x 327.2225pt>
+<imagens/arvoredecisaoAPI.png, id=39, 1192.455pt x 327.2225pt>
 File: imagens/arvoredecisaoAPI.png Graphic file (type png)
 <use imagens/arvoredecisaoAPI.png>
-Package pdftex.def Info: imagens/arvoredecisaoAPI.png  used on input line 89.
+Package pdftex.def Info: imagens/arvoredecisaoAPI.png  used on input line 138.
 (pdftex.def)             Requested size: 318.66948pt x 87.44252pt.
-<imagens/knn.png, id=39, 1192.455pt x 327.2225pt>
+<imagens/knn.png, id=40, 1192.455pt x 327.2225pt>
 File: imagens/knn.png Graphic file (type png)
 <use imagens/knn.png>
-Package pdftex.def Info: imagens/knn.png  used on input line 99.
+Package pdftex.def Info: imagens/knn.png  used on input line 148.
 (pdftex.def)             Requested size: 318.66948pt x 87.44252pt.
-<imagens/knnAPI.png, id=40, 1192.455pt x 327.2225pt>
+ [9 <./imagens/regressailinear.png> <./imagens/regressailinearAPI.png> <./image
+ns/arvoredecisao.png>]
+<imagens/knnAPI.png, id=47, 1192.455pt x 327.2225pt>
 File: imagens/knnAPI.png Graphic file (type png)
 <use imagens/knnAPI.png>
-Package pdftex.def Info: imagens/knnAPI.png  used on input line 109.
+Package pdftex.def Info: imagens/knnAPI.png  used on input line 158.
 (pdftex.def)             Requested size: 318.66948pt x 87.44252pt.
- [8 <./imagens/arvoredecisao.png> <./imagens/arvoredecisaoAPI.png> <./imagens/k
-nn.png>]
-<imagens/florestaaleatoria.png, id=47, 1192.455pt x 327.2225pt>
+<imagens/florestaaleatoria.png, id=48, 1192.455pt x 327.2225pt>
 File: imagens/florestaaleatoria.png Graphic file (type png)
 <use imagens/florestaaleatoria.png>
-Package pdftex.def Info: imagens/florestaaleatoria.png  used on input line 119.
+Package pdftex.def Info: imagens/florestaaleatoria.png  used on input line 168.
 
 (pdftex.def)             Requested size: 318.66948pt x 87.44252pt.
-<imagens/florestaaleatoriaAPI.png, id=48, 1192.455pt x 327.2225pt>
+<imagens/florestaaleatoriaAPI.png, id=49, 1192.455pt x 327.2225pt>
 File: imagens/florestaaleatoriaAPI.png Graphic file (type png)
 <use imagens/florestaaleatoriaAPI.png>
 Package pdftex.def Info: imagens/florestaaleatoriaAPI.png  used on input line 1
-29.
+78.
 (pdftex.def)             Requested size: 318.66948pt x 87.44252pt.
- [9 <./imagens/knnAPI.png> <./imagens/florestaaleatoria.png (PNG copy)> <./imag
-ens/florestaaleatoriaAPI.png>]
-<imagens/regressaologistocaAPI.png, id=54, 1192.455pt x 327.2225pt>
+ [10 <./imagens/arvoredecisaoAPI.png> <./imagens/knn.png> <./imagens/knnAPI.png
+>]
+<imagens/regressaologistocaAPI.png, id=56, 1192.455pt x 327.2225pt>
 File: imagens/regressaologistocaAPI.png Graphic file (type png)
 <use imagens/regressaologistocaAPI.png>
 Package pdftex.def Info: imagens/regressaologistocaAPI.png  used on input line 
-139.
+188.
 (pdftex.def)             Requested size: 318.66948pt x 87.44252pt.
-<imagens/SVM.png, id=55, 1192.455pt x 327.2225pt>
+<imagens/SVM.png, id=57, 1192.455pt x 327.2225pt>
 File: imagens/SVM.png Graphic file (type png)
 <use imagens/SVM.png>
-Package pdftex.def Info: imagens/SVM.png  used on input line 149.
+Package pdftex.def Info: imagens/SVM.png  used on input line 198.
 (pdftex.def)             Requested size: 318.66948pt x 87.44252pt.
-<imagens/SVMAPI.png, id=56, 1192.455pt x 327.2225pt>
+<imagens/SVMAPI.png, id=58, 1192.455pt x 327.2225pt>
 File: imagens/SVMAPI.png Graphic file (type png)
 <use imagens/SVMAPI.png>
-Package pdftex.def Info: imagens/SVMAPI.png  used on input line 159.
+Package pdftex.def Info: imagens/SVMAPI.png  used on input line 208.
 (pdftex.def)             Requested size: 318.66948pt x 87.44252pt.
-)
-(./Conclusao.tex [10 <./imagens/regressaologistocaAPI.png> <./imagens/SVM.png> 
-<./imagens/SVMAPI.png>]) [11] (./Artigo.bbl [12]) [13] (./Artigo.aux)
+) (./Conclusao.tex [11 <./imagens/florestaaleatoria.png (PNG copy)> <./imagens/
+florestaaleatoriaAPI.png> <./imagens/regressaologistocaAPI.png>] [12 <./imagens
+/SVM.png> <./imagens/SVMAPI.png>]) [13]
+(./Artigo.bbl [14]) [15] (./Artigo.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 3739 strings out of 494903
- 51907 string characters out of 6179960
- 121479 words of memory out of 5000000
- 6941 multiletter control sequences out of 15000+600000
+ 3830 strings out of 494903
+ 52931 string characters out of 6179960
+ 130236 words of memory out of 5000000
+ 7029 multiletter control sequences out of 15000+600000
  19704 words of font info for 41 fonts, out of 8000000 for 9000
  16 hyphenation exceptions out of 8191
- 41i,8n,25p,1213b,395s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 41i,12n,25p,1083b,395s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/ty
 pe1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/u
 tmri8a.pfb>
-Output written on Artigo.pdf (14 pages, 195046 bytes).
+Output written on Artigo.pdf (16 pages, 197155 bytes).
 PDF statistics:
- 89 PDF objects out of 1000 (max. 8388607)
- 47 compressed objects within 1 object stream
+ 95 PDF objects out of 1000 (max. 8388607)
+ 51 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  56 words of extra memory for PDF output out of 10000 (max. 10000000)
 
