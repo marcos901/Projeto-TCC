@@ -139,7 +139,7 @@ A base2\footnote{base de dados de 2007 a 2019 com 30.000 jogos} contendo 30 cara
  
 
 
-Apos a retirada das características que não serão usadas foi feito um processamento nos dados, transformando as colunas \textit{(W/L)win loss} e \textit{winorloss} que continha dos dados de vitoria como "L" e derrota como "L", as linha contendo "W" foi convertida para "1" as com "L" para "0". É verificando se a dados faltantes na base de dados, caso houve-se dados faltante  as lacunas foi preenchida com a media dos dados da receptiva coluna.
+Apos a retirada das características que não serão usadas foi feito um processamento nos dados, transformando as colunas \textit{(W/L)win loss} e \textit{winorloss} que continha dos dados de vitoria como "W" e derrota como "L", as linha contendo "W" foi convertida para "1" as com "L" para "0". É verificando se a dados faltantes na base de dados, caso houve-se dados faltante  as lacunas foi preenchida com a media dos dados da receptiva coluna.
 
 Com as base de dados preparada foi feito uma divisão na base, sendo dividida em duas parte uma para teste e outra para treino, com a base de teste contendo 30 \% dos dados e a base treino contendo os outra 70 \%. com a base separa em quatro vetores sendo os vetores x\_treino, x\_teste, y\_treino, y\_teste.
 
@@ -249,7 +249,7 @@ O algoritmo de máquinas de vetores de suporte com a base1 teve um taxa de acert
 	%%\legend{Fonte: Próprio Autor}
 \end{figure}
 
-O algoritmo de máquinas de vetores de suporte com a base1 teve um taxa de acerto de 87\%, veja o grafico de relação entre os dados reais e os previstos.
+O algoritmo de máquinas de vetores de suporte com a base2 teve um taxa de acerto de 87\%, veja o grafico de relação entre os dados reais e os previstos.
 \begin{figure}[htbp]
 	\begin{center}
 		\includegraphics[width=0.7\linewidth]{imagens/SVMAPI.png}\\
