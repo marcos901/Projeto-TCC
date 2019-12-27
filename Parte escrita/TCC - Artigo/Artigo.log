@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.10.18)  12 DEC 2019 09:54
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.10.18)  27 DEC 2019 10:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -649,6 +649,11 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 2.
 
+Overfull \hbox (14.95522pt too wide) in paragraph at lines 8--9
+[]\OT1/ptm/m/it/12 National Bas-ket-ball As-so-ci-a-tion \OT1/ptm/m/n/12 (NBA) 
+desde a sua ori-gem tem mais de 60 anos. A organiza[][]ao
+ []
+
 [1]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 30.
@@ -660,53 +665,53 @@ LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 35.
  [2])
 (./Desenvolvimento.tex [3] [4] [5]
-Underfull \vbox (badness 10000) detected at line 64
+Underfull \vbox (badness 10000) detected at line 65
  []
 
 [6]
-Underfull \vbox (badness 10000) detected at line 84
+Underfull \vbox (badness 10000) detected at line 85
  []
 
 
-Underfull \vbox (badness 10000) detected at line 110
+Underfull \vbox (badness 10000) detected at line 111
  []
 
 [7]
-Underfull \vbox (badness 10000) detected at line 132
+Underfull \vbox (badness 10000) detected at line 133
  []
 
 [8]
 <imagens/regressailinear.png, id=35, 1192.455pt x 327.2225pt>
 File: imagens/regressailinear.png Graphic file (type png)
 <use imagens/regressailinear.png>
-Package pdftex.def Info: imagens/regressailinear.png  used on input line 155.
+Package pdftex.def Info: imagens/regressailinear.png  used on input line 156.
 (pdftex.def)             Requested size: 318.66948pt x 87.44252pt.
 <imagens/regressailinearAPI.png, id=37, 1192.455pt x 327.2225pt>
 File: imagens/regressailinearAPI.png Graphic file (type png)
 <use imagens/regressailinearAPI.png>
-Package pdftex.def Info: imagens/regressailinearAPI.png  used on input line 165
+Package pdftex.def Info: imagens/regressailinearAPI.png  used on input line 166
 .
 (pdftex.def)             Requested size: 318.66948pt x 87.44252pt.
 <imagens/arvoredecisao.png, id=38, 1192.455pt x 327.2225pt>
 File: imagens/arvoredecisao.png Graphic file (type png)
 <use imagens/arvoredecisao.png>
-Package pdftex.def Info: imagens/arvoredecisao.png  used on input line 175.
+Package pdftex.def Info: imagens/arvoredecisao.png  used on input line 176.
 (pdftex.def)             Requested size: 318.66948pt x 87.44252pt.
  [9 <./imagens/regressailinear.png> <./imagens/regressailinearAPI.png>]
 <imagens/arvoredecisaoAPI.png, id=44, 1192.455pt x 327.2225pt>
 File: imagens/arvoredecisaoAPI.png Graphic file (type png)
 <use imagens/arvoredecisaoAPI.png>
-Package pdftex.def Info: imagens/arvoredecisaoAPI.png  used on input line 185.
+Package pdftex.def Info: imagens/arvoredecisaoAPI.png  used on input line 186.
 (pdftex.def)             Requested size: 318.66948pt x 87.44252pt.
 <imagens/knn.png, id=45, 1192.455pt x 327.2225pt>
 File: imagens/knn.png Graphic file (type png)
 <use imagens/knn.png>
-Package pdftex.def Info: imagens/knn.png  used on input line 195.
+Package pdftex.def Info: imagens/knn.png  used on input line 196.
 (pdftex.def)             Requested size: 318.66948pt x 87.44252pt.
 <imagens/knnAPI.png, id=46, 1192.455pt x 327.2225pt>
 File: imagens/knnAPI.png Graphic file (type png)
 <use imagens/knnAPI.png>
-Package pdftex.def Info: imagens/knnAPI.png  used on input line 205.
+Package pdftex.def Info: imagens/knnAPI.png  used on input line 206.
 (pdftex.def)             Requested size: 318.66948pt x 87.44252pt.
 
 [10 <./imagens/arvoredecisao.png> <./imagens/arvoredecisaoAPI.png> <./imagens/k
@@ -714,14 +719,14 @@ nn.png>]
 <imagens/florestaaleatoria.png, id=53, 1192.455pt x 327.2225pt>
 File: imagens/florestaaleatoria.png Graphic file (type png)
 <use imagens/florestaaleatoria.png>
-Package pdftex.def Info: imagens/florestaaleatoria.png  used on input line 215.
+Package pdftex.def Info: imagens/florestaaleatoria.png  used on input line 216.
 
 (pdftex.def)             Requested size: 318.66948pt x 87.44252pt.
 <imagens/florestaaleatoriaAPI.png, id=54, 1192.455pt x 327.2225pt>
 File: imagens/florestaaleatoriaAPI.png Graphic file (type png)
 <use imagens/florestaaleatoriaAPI.png>
 Package pdftex.def Info: imagens/florestaaleatoriaAPI.png  used on input line 2
-25.
+26.
 (pdftex.def)             Requested size: 318.66948pt x 87.44252pt.
  [11 <./imagens/knnAPI.png> <./imagens/florestaaleatoria.png (PNG copy)> <./ima
 gens/florestaaleatoriaAPI.png>]
@@ -729,17 +734,17 @@ gens/florestaaleatoriaAPI.png>]
 File: imagens/regressaologistocaAPI.png Graphic file (type png)
 <use imagens/regressaologistocaAPI.png>
 Package pdftex.def Info: imagens/regressaologistocaAPI.png  used on input line 
-235.
+236.
 (pdftex.def)             Requested size: 318.66948pt x 87.44252pt.
 <imagens/SVM.png, id=61, 1192.455pt x 327.2225pt>
 File: imagens/SVM.png Graphic file (type png)
 <use imagens/SVM.png>
-Package pdftex.def Info: imagens/SVM.png  used on input line 245.
+Package pdftex.def Info: imagens/SVM.png  used on input line 246.
 (pdftex.def)             Requested size: 318.66948pt x 87.44252pt.
 <imagens/SVMAPI.png, id=62, 1192.455pt x 327.2225pt>
 File: imagens/SVMAPI.png Graphic file (type png)
 <use imagens/SVMAPI.png>
-Package pdftex.def Info: imagens/SVMAPI.png  used on input line 255.
+Package pdftex.def Info: imagens/SVMAPI.png  used on input line 256.
 (pdftex.def)             Requested size: 318.66948pt x 87.44252pt.
 ) (./Conclusao.tex [12 <./imagens/regressaologistocaAPI.png> <./imagens/SVM.png
 > <./imagens/SVMAPI.png>]) [13]
@@ -755,13 +760,13 @@ Here is how much of TeX's memory you used:
  7031 multiletter control sequences out of 15000+600000
  19704 words of font info for 41 fonts, out of 8000000 for 9000
  16 hyphenation exceptions out of 8191
- 41i,12n,25p,715b,395s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 41i,12n,25p,892b,395s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/ty
 pe1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/u
 tmri8a.pfb>
-Output written on Artigo.pdf (16 pages, 198626 bytes).
+Output written on Artigo.pdf (16 pages, 198905 bytes).
 PDF statistics:
  95 PDF objects out of 1000 (max. 8388607)
  51 compressed objects within 1 object stream
