@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.10.18)  27 DEC 2019 10:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.10.18)  28 DEC 2019 12:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -681,74 +681,122 @@ Underfull \vbox (badness 10000) detected at line 133
  []
 
 [8]
-<imagens/regressailinear.png, id=35, 1192.455pt x 327.2225pt>
+<imagens/regressailinear.png, id=35, 1084.05pt x 361.35pt>
 File: imagens/regressailinear.png Graphic file (type png)
 <use imagens/regressailinear.png>
-Package pdftex.def Info: imagens/regressailinear.png  used on input line 156.
-(pdftex.def)             Requested size: 318.66948pt x 87.44252pt.
-<imagens/regressailinearAPI.png, id=37, 1192.455pt x 327.2225pt>
+Package pdftex.def Info: imagens/regressailinear.png  used on input line 154.
+(pdftex.def)             Requested size: 386.96027pt x 128.98866pt.
+<imagens/regressailinearAPI.png, id=37, 1084.05pt x 361.35pt>
 File: imagens/regressailinearAPI.png Graphic file (type png)
 <use imagens/regressailinearAPI.png>
-Package pdftex.def Info: imagens/regressailinearAPI.png  used on input line 166
+Package pdftex.def Info: imagens/regressailinearAPI.png  used on input line 164
 .
-(pdftex.def)             Requested size: 318.66948pt x 87.44252pt.
-<imagens/arvoredecisao.png, id=38, 1192.455pt x 327.2225pt>
+(pdftex.def)             Requested size: 386.96027pt x 128.98866pt.
+<imagens/arvoredecisao.png, id=38, 1084.05pt x 361.35pt>
 File: imagens/arvoredecisao.png Graphic file (type png)
 <use imagens/arvoredecisao.png>
-Package pdftex.def Info: imagens/arvoredecisao.png  used on input line 176.
-(pdftex.def)             Requested size: 318.66948pt x 87.44252pt.
- [9 <./imagens/regressailinear.png> <./imagens/regressailinearAPI.png>]
-<imagens/arvoredecisaoAPI.png, id=44, 1192.455pt x 327.2225pt>
+Package pdftex.def Info: imagens/arvoredecisao.png  used on input line 174.
+(pdftex.def)             Requested size: 546.29153pt x 182.10262pt.
+
+Overfull \hbox (91.04742pt too wide) in paragraph at lines 174--174
+ [] 
+ []
+
+[9 <./imagens/regressailinear.png> <./imagens/regressailinearAPI.png>]
+<imagens/arvoredecisaoAPI.png, id=44, 1084.05pt x 361.35pt>
 File: imagens/arvoredecisaoAPI.png Graphic file (type png)
 <use imagens/arvoredecisaoAPI.png>
-Package pdftex.def Info: imagens/arvoredecisaoAPI.png  used on input line 186.
-(pdftex.def)             Requested size: 318.66948pt x 87.44252pt.
-<imagens/knn.png, id=45, 1192.455pt x 327.2225pt>
+Package pdftex.def Info: imagens/arvoredecisaoAPI.png  used on input line 184.
+(pdftex.def)             Requested size: 546.29153pt x 182.10262pt.
+
+Overfull \hbox (91.04742pt too wide) in paragraph at lines 184--184
+ [] 
+ []
+
+[10 <./imagens/arvoredecisao.png> <./imagens/arvoredecisaoAPI.png>]
+<imagens/knn.png, id=50, 1084.05pt x 361.35pt>
 File: imagens/knn.png Graphic file (type png)
 <use imagens/knn.png>
-Package pdftex.def Info: imagens/knn.png  used on input line 196.
-(pdftex.def)             Requested size: 318.66948pt x 87.44252pt.
-<imagens/knnAPI.png, id=46, 1192.455pt x 327.2225pt>
+Package pdftex.def Info: imagens/knn.png  used on input line 194.
+(pdftex.def)             Requested size: 546.29153pt x 182.10262pt.
+
+Overfull \hbox (91.04742pt too wide) in paragraph at lines 194--194
+ [] 
+ []
+
+<imagens/knnAPI.png, id=51, 1084.05pt x 361.35pt>
 File: imagens/knnAPI.png Graphic file (type png)
 <use imagens/knnAPI.png>
-Package pdftex.def Info: imagens/knnAPI.png  used on input line 206.
-(pdftex.def)             Requested size: 318.66948pt x 87.44252pt.
+Package pdftex.def Info: imagens/knnAPI.png  used on input line 204.
+(pdftex.def)             Requested size: 546.29153pt x 182.10262pt.
 
-[10 <./imagens/arvoredecisao.png> <./imagens/arvoredecisaoAPI.png> <./imagens/k
-nn.png>]
-<imagens/florestaaleatoria.png, id=53, 1192.455pt x 327.2225pt>
+Overfull \hbox (91.04742pt too wide) in paragraph at lines 204--204
+ [] 
+ []
+
+[11 <./imagens/knn.png> <./imagens/knnAPI.png>]
+<imagens/florestaaleatoria.png, id=57, 1084.05pt x 361.35pt>
 File: imagens/florestaaleatoria.png Graphic file (type png)
 <use imagens/florestaaleatoria.png>
-Package pdftex.def Info: imagens/florestaaleatoria.png  used on input line 216.
+Package pdftex.def Info: imagens/florestaaleatoria.png  used on input line 215.
 
-(pdftex.def)             Requested size: 318.66948pt x 87.44252pt.
-<imagens/florestaaleatoriaAPI.png, id=54, 1192.455pt x 327.2225pt>
+(pdftex.def)             Requested size: 546.29153pt x 182.10262pt.
+
+Overfull \hbox (91.04742pt too wide) in paragraph at lines 215--215
+ [] 
+ []
+
+<imagens/florestaaleatoriaAPI.png, id=58, 1084.05pt x 361.35pt>
 File: imagens/florestaaleatoriaAPI.png Graphic file (type png)
 <use imagens/florestaaleatoriaAPI.png>
 Package pdftex.def Info: imagens/florestaaleatoriaAPI.png  used on input line 2
-26.
-(pdftex.def)             Requested size: 318.66948pt x 87.44252pt.
- [11 <./imagens/knnAPI.png> <./imagens/florestaaleatoria.png (PNG copy)> <./ima
-gens/florestaaleatoriaAPI.png>]
-<imagens/regressaologistocaAPI.png, id=60, 1192.455pt x 327.2225pt>
+25.
+(pdftex.def)             Requested size: 546.29153pt x 182.10262pt.
+
+Overfull \hbox (91.04742pt too wide) in paragraph at lines 225--225
+ [] 
+ []
+
+[12 <./imagens/florestaaleatoria.png> <./imagens/florestaaleatoriaAPI.png>]
+<imagens/regressaologistocaAPI.png, id=65, 1084.05pt x 361.35pt>
 File: imagens/regressaologistocaAPI.png Graphic file (type png)
 <use imagens/regressaologistocaAPI.png>
 Package pdftex.def Info: imagens/regressaologistocaAPI.png  used on input line 
-236.
-(pdftex.def)             Requested size: 318.66948pt x 87.44252pt.
-<imagens/SVM.png, id=61, 1192.455pt x 327.2225pt>
+235.
+(pdftex.def)             Requested size: 546.29153pt x 182.10262pt.
+
+Overfull \hbox (91.04742pt too wide) in paragraph at lines 235--235
+ [] 
+ []
+
+<imagens/SVM.png, id=66, 1084.05pt x 361.35pt>
 File: imagens/SVM.png Graphic file (type png)
 <use imagens/SVM.png>
 Package pdftex.def Info: imagens/SVM.png  used on input line 246.
-(pdftex.def)             Requested size: 318.66948pt x 87.44252pt.
-<imagens/SVMAPI.png, id=62, 1192.455pt x 327.2225pt>
+(pdftex.def)             Requested size: 546.29153pt x 182.10262pt.
+
+Overfull \hbox (91.04742pt too wide) in paragraph at lines 246--246
+ [] 
+ []
+
+[13 <./imagens/regressaologistocaAPI.png> <./imagens/SVM.png>]
+<imagens/SVMAPI.png, id=72, 1084.05pt x 361.35pt>
 File: imagens/SVMAPI.png Graphic file (type png)
 <use imagens/SVMAPI.png>
 Package pdftex.def Info: imagens/SVMAPI.png  used on input line 256.
-(pdftex.def)             Requested size: 318.66948pt x 87.44252pt.
-) (./Conclusao.tex [12 <./imagens/regressaologistocaAPI.png> <./imagens/SVM.png
-> <./imagens/SVMAPI.png>]) [13]
-(./Artigo.bbl [14]) [15] (./Artigo.aux)
+(pdftex.def)             Requested size: 546.29153pt x 182.10262pt.
+
+Overfull \hbox (91.04742pt too wide) in paragraph at lines 256--256
+ [] 
+ []
+
+) (./Conclusao.tex [14 <./imagens/SVMAPI.png>] [15]
+Overfull \hbox (129.40157pt too wide) in paragraph at lines 23--24
+\OT1/ptm/m/n/12 tramse d^^Pspon^^Pveis em https://github.com/marcos901/Projeto-
+TCC/tree/master/Teste%20dos%20algoritmos%20%202019. 
+ []
+
+) [16] (./Artigo.bbl [17]) [18] (./Artigo.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
@@ -766,10 +814,10 @@ e/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/ty
 pe1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/u
 tmri8a.pfb>
-Output written on Artigo.pdf (16 pages, 198905 bytes).
+Output written on Artigo.pdf (19 pages, 227676 bytes).
 PDF statistics:
- 95 PDF objects out of 1000 (max. 8388607)
- 51 compressed objects within 1 object stream
+ 106 PDF objects out of 1000 (max. 8388607)
+ 58 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  56 words of extra memory for PDF output out of 10000 (max. 10000000)
 
