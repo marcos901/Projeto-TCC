@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.10.18)  28 DEC 2019 12:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.10.18)  28 DEC 2019 12:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -790,13 +790,8 @@ Overfull \hbox (91.04742pt too wide) in paragraph at lines 256--256
  [] 
  []
 
-) (./Conclusao.tex [14 <./imagens/SVMAPI.png>] [15]
-Overfull \hbox (129.40157pt too wide) in paragraph at lines 23--24
-\OT1/ptm/m/n/12 tramse d^^Pspon^^Pveis em https://github.com/marcos901/Projeto-
-TCC/tree/master/Teste%20dos%20algoritmos%20%202019. 
- []
-
-) [16] (./Artigo.bbl [17]) [18] (./Artigo.aux)
+) (./Conclusao.tex [14 <./imagens/SVMAPI.png>] [15]) [16] (./Artigo.bbl
+[17]) [18] (./Artigo.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
@@ -814,7 +809,7 @@ e/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/ty
 pe1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/u
 tmri8a.pfb>
-Output written on Artigo.pdf (19 pages, 227676 bytes).
+Output written on Artigo.pdf (19 pages, 227669 bytes).
 PDF statistics:
  106 PDF objects out of 1000 (max. 8388607)
  58 compressed objects within 1 object stream
